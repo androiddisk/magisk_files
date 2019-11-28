@@ -17,6 +17,6 @@
   },
   "stub": {
     "versionCode": "3",
-    "link": "https://raw.githubusercontent.com/androiddisk/magisk_files/stub/stub-release.apk"
+    "link": "https://raw.githubusercontent.com/androiddisk/magisk_files/master/stub-release.apk"
   }
 }
