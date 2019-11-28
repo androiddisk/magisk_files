@@ -1,7 +1,7 @@
 {
   "app": {
-    "version": "7.4.0",
-    "versionCode": "253",
+    "version": "8.6.1",
+    "versionCode": "861",
     "link": "https://raw.githubusercontent.com/androiddisk/magisk_files/master/magisk.apk",
     "note": "https://raw.githubusercontent.com/topjohnwu/Magisk/7da97489cc0f6bb0ddcde8d5a91fa1719bf01791/app/src/main/res/raw/changelog.md"
   },
@@ -9,8 +9,8 @@
     "link": "https://github.com/androiddisk/Magisk/releases/download/v20.1/Magisk-uninstaller-20191102.zip"
   },
   "magisk": {
-    "version": "20.1",
-    "versionCode": "20100",
+    "version": "23.6",
+    "versionCode": "23600",
     "link": "https://github.com/androiddisk/Magisk/releases/download/v20.1/Magisk-v20.1.zip",
     "note": "https://raw.githubusercontent.com/androiddisk/magisk_files/6f94236b1407bd0c162647db75dfa2ac956163ca/notes.md",
     "md5": "994679ea19d7980f5fd28748c4e8abdd"
